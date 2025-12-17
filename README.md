@@ -15,11 +15,12 @@ One of my coursemates had suggested an interesting angle for an image based soci
 I liked the challenge this presented of creating a UI which was intuitive enough that words would not be needed to navigate.
 I  worked on the image upload page and post creation front and back end including creating a Cloudinary account and using Multer middleware to send image files to the platform.
 Other features I worked on included the loading component, the emoji picker and some profile features such as editing the profile and adding a profile picture.
+During the final showcase I presented to a group of non-coders, talking them though our tech-stack from front end to back end.
 
 <details>
-<summary><b>My section header in bold</b></summary>
+<summary><em>Screenshot</em></summary>
 
-Any folded content here. It requires an empty line just above it.
+
 
 </details>
 
