@@ -38,7 +38,7 @@ I host an annual costume party for the Eurovision Song Contest and we discovered
 
 I therefore saw the need to create a costume database which would store information about past Eurovision entries with screenshots so that people could easily find inspiration for their costume.
 
-With the skills that I have learned at Dev Academy I began working on turning the database in to an interactive website as my personal project.
+With the skills that I learned at Dev Academy I began working on turning the database in to an interactive website as my personal project.
 
 <details>
 <summary><em>Screenshot</em></summary>
@@ -47,17 +47,16 @@ With the skills that I have learned at Dev Academy I began working on turning th
 
 </details>
 
-<!--
-**patrick-hignell/patrick-hignell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Event Planner
+Festivals such as the Edinburgh Fringe or the Art Deco Festival often provide a detailed programme, however it can often be difficult to know if the event you are looking at might clash with others you might want to attend.
 
-Here are some ideas to get you started:
+The event planner aims to simplify this by taking events in its database and arranging them in a planner side by side so you can immediatley see what's on each day and which events are on at the same time.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+It is capable of all CRUD operations using RESTful APIs so events can easily be read, added, edited and deleted.
+
+<details>
+<summary><em>Screenshot</em></summary>
+
+![GlIGHFE screenshot](https://github.com/patrick-hignell/patrick-hignell/blob/main/public/images/EventPlannerScreenshot.png?raw=true)
+
+</details>
