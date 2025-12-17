@@ -1,4 +1,11 @@
-## Hi there 👋
+## About Me
+I have spent the past 9 years working as a doctor, the last 4 years of which was in
+psychiatry.
+Throughout my life I have always been drawn to coding. Long before I went to
+medical school, I was making games in GameMaker and later I taught myself how to
+use Unity whilst I was at university.
+Now that I have decided to have a change in career, I am wanting to pursue the one
+interest that has consistently kept me engaged and wanting to learn more.
 
 <!--
 **patrick-hignell/patrick-hignell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
