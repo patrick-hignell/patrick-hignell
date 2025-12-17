@@ -33,6 +33,7 @@ During the final showcase I presented to a group of non-coders, talking them tho
 
 <details>
 <summary><em>Next steps</em></summary>
+  
 - fix current bugs
   
 - add like button
@@ -59,6 +60,7 @@ With the skills that I learned at Dev Academy I began working on turning the dat
 </details>
 <details>
 <summary><em>Next steps</em></summary>
+  
 - finish simple and advanced search function
   
 - add customisable data display on icons
@@ -84,6 +86,7 @@ It is capable of all CRUD operations using RESTful APIs so events can easily be 
 
 <details>
 <summary><em>Next steps</em></summary>
+  
 - add functionality for multiple entry upload
   
 - stylise for specific festivals e.g. Art Deco
