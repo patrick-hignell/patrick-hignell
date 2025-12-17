@@ -10,7 +10,9 @@ I am now putting these new skills to the test and will continue to improve upon 
 
 ## Projects
 ## GlIGHFE 
-(pronounced Glyph) was a week long group project for the final week of Devacademy Aotearoa. I had wanted to work on some form of social media for our final project and was also interested in explroing image uploading.
+(Pronounced Glyph) was a week long group project for the final week of Devacademy Aotearoa.
+
+I had wanted to work on some form of social media for our final project and was also interested in explroing image uploading.
 
 One of my coursemates had suggested an interesting angle for an image based social media project which was that the website should contain no words, only symbols and emojis.
 
@@ -29,6 +31,21 @@ During the final showcase I presented to a group of non-coders, talking them tho
 
 </details>
 
+## Eurovision Database
+This project originally began long before Dev Academy as a macro enabled Excel spreadsheet.
+
+I host an annual costume party for the Eurovision Song Contest and we discovered that some of our friends would struggle with the costume research process, particularly if there were not very familiar with Eurovision.
+
+I therefore saw the need to create a costume database which would store information about past Eurovision entries with screenshots so that people could easily find inspiration for their costume.
+
+With the skills that I have learned at Dev Academy I began working on turning the database in to an interactive website as my personal project.
+
+<details>
+<summary><em>Screenshot</em></summary>
+
+![GlIGHFE screenshot](https://github.com/patrick-hignell/patrick-hignell/blob/main/public/images/Eurovision%20Screenshot.png?raw=true)
+
+</details>
 
 <!--
 **patrick-hignell/patrick-hignell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
