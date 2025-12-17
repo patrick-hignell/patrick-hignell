@@ -25,7 +25,7 @@ During the final showcase I presented to a group of non-coders, talking them tho
 <details>
 <summary><em>Screenshot</em></summary>
 
-![GlIGHFE screenshot](https://github.com/patrick-hignell/patrick-hignell/public/images/GlIGHFEScreenshot.png?raw=true)
+![GlIGHFE screenshot](https://github.com/patrick-hignell/patrick-hignell/blob/main/public/images/GliGHFE%20Screenshot.png?raw=true)
 
 </details>
 
