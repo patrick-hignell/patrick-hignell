@@ -31,6 +31,14 @@ During the final showcase I presented to a group of non-coders, talking them tho
 
 </details>
 
+<details>
+<summary><em>Next steps</em></summary>
+- fix current bugs
+- add like button
+- add custom wingdings keyboard
+- make mobile keyboard disappear when emoji picker is visible
+</details>
+
 ## Eurovision Database
 This project originally began long before Dev Academy as a macro enabled Excel spreadsheet.
 
@@ -43,8 +51,14 @@ With the skills that I learned at Dev Academy I began working on turning the dat
 <details>
 <summary><em>Screenshot</em></summary>
 
-![GlIGHFE screenshot](https://github.com/patrick-hignell/patrick-hignell/blob/main/public/images/EurovisionScreenshot.png?raw=true)
+![Eurovision Database screenshot](https://github.com/patrick-hignell/patrick-hignell/blob/main/public/images/EurovisionScreenshot.png?raw=true)
 
+</details>
+<summary><em>Next steps</em></summary>
+- finish simple and advanced search function
+- add customisable data display on icons
+- add more screenshots
+- fix youtube error messages
 </details>
 
 ## Event Planner
@@ -57,6 +71,12 @@ It is capable of all CRUD operations using RESTful APIs so events can easily be 
 <details>
 <summary><em>Screenshot</em></summary>
 
-![GlIGHFE screenshot](https://github.com/patrick-hignell/patrick-hignell/blob/main/public/images/EventPlannerScreenshot.png?raw=true)
+![Event Planner screenshot](https://github.com/patrick-hignell/patrick-hignell/blob/main/public/images/EventPlannerScreenshot.png?raw=true)
 
+</details>
+
+</details>
+<summary><em>Next steps</em></summary>
+- add functionality for multiple entry upload
+- stylise for specific festivals e.g. Art Deco
 </details>
