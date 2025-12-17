@@ -27,7 +27,7 @@ During the final showcase I presented to a group of non-coders, talking them tho
 <details>
 <summary><em>Screenshot</em></summary>
 
-![GlIGHFE screenshot](https://github.com/patrick-hignell/patrick-hignell/blob/main/public/images/GliGHFE%20Screenshot.png?raw=true)
+![GlIGHFE screenshot](https://github.com/patrick-hignell/patrick-hignell/blob/main/public/images/GliGHFEScreenshot.png?raw=true)
 
 </details>
 
@@ -43,7 +43,7 @@ With the skills that I have learned at Dev Academy I began working on turning th
 <details>
 <summary><em>Screenshot</em></summary>
 
-![GlIGHFE screenshot](https://github.com/patrick-hignell/patrick-hignell/blob/main/public/images/Eurovision%20Screenshot.png?raw=true)
+![GlIGHFE screenshot](https://github.com/patrick-hignell/patrick-hignell/blob/main/public/images/EurovisionScreenshot.png?raw=true)
 
 </details>
 
