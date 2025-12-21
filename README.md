@@ -24,7 +24,7 @@ Other features I worked on included the loading component, the emoji picker and 
 
 During the final showcase I presented to a group of non-coders, talking them though our tech-stack from front end to back end.
 
-<details>
+<details open>
 <summary><em>Screenshot</em></summary>
 
 ![GlIGHFE screenshot](https://github.com/patrick-hignell/patrick-hignell/blob/main/public/images/GliGHFEScreenshot.png?raw=true)
@@ -52,7 +52,7 @@ I therefore saw the need to create a costume database which would store informat
 
 With the skills that I learned at Dev Academy I began working on turning the database in to an interactive website as my personal project.
 
-<details>
+<details open>
 <summary><em>Screenshot</em></summary>
 
 ![Eurovision Database screenshot](https://github.com/patrick-hignell/patrick-hignell/blob/main/public/images/EurovisionScreenshot.png?raw=true)
@@ -77,7 +77,7 @@ The event planner aims to simplify this by taking events in its database and arr
 
 It is capable of all CRUD operations using RESTful APIs so events can easily be read, added, edited and deleted.
 
-<details>
+<details open>
 <summary><em>Screenshot</em></summary>
 
 ![Event Planner screenshot](https://github.com/patrick-hignell/patrick-hignell/blob/main/public/images/EventPlannerScreenshot.png?raw=true)
