@@ -34,13 +34,13 @@ During the final showcase I presented to a group of non-coders, talking them tho
 <details>
 <summary><em>Next Steps</em></summary>
   
-- fix current bugs
+- Fix current bugs
   
-- add like button
+- Add like button
   
-- add custom wingdings keyboard
+- Add custom wingdings keyboard
   
-- make mobile keyboard disappear when emoji picker is visible
+- Make mobile keyboard disappear when emoji picker is visible
 </details>
 
 ## Eurovision Database
@@ -61,13 +61,13 @@ With the skills that I learned at Dev Academy I began working on turning the dat
 <details>
 <summary><em>Next Steps</em></summary>
   
-- finish simple and advanced search function
+- Finish simple and advanced search function
   
-- add customisable data display on icons
+- Add customisable data display on icons
 
-- add more screenshots
+- Add more screenshots
 
-- fix youtube error messages
+- Fix youtube error messages
 </details>
 
 ## Event Planner
@@ -87,7 +87,7 @@ It is capable of all CRUD operations using RESTful APIs so events can easily be 
 <details>
 <summary><em>Next Steps</em></summary>
   
-- add functionality for multiple entry upload
+- Add functionality for multiple entry upload
   
-- stylise for specific festivals e.g. Art Deco
+- Stylise for specific festivals e.g. Art Deco
 </details>
