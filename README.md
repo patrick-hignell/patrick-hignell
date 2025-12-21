@@ -98,8 +98,6 @@ This Unity project aimed to create a programme which would generate realistic ma
 <details open>
 <summary><em>Screenshot</em></summary>
 
-![Event Planner screenshot](https://github.com/patrick-hignell/patrick-hignell/blob/main/public/images/EventPlannerScreenshot.png?raw=true)
-
 ![Map Generator screenshot](https://github.com/patrick-hignell/Map-Generator/blob/main/public/images/map1.png?raw=true)
 
 </details>
