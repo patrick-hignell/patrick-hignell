@@ -93,7 +93,9 @@ It is capable of all CRUD operations using RESTful APIs so events can easily be 
 </details>
 
 ## Map Generator
-This Unity project aimed to create a programme which would generate realistic maps for role playing games such as Dungeons and Dragons. Specifically, I wanted a map generator which would simulate continental drift, climate biomes, city trade routes and handle city name generation.
+This Unity project aimed to create a programme which would generate realistic maps for role playing games such as Dungeons and Dragons.
+
+Specifically, I wanted a map generator which would simulate continental drift, climate biomes, city trade routes and handle city name generation.
 
 <details open>
 <summary><em>Screenshot</em></summary>
