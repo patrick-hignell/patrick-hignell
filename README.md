@@ -91,3 +91,29 @@ It is capable of all CRUD operations using RESTful APIs so events can easily be 
   
 - Stylise for specific festivals e.g. Art Deco
 </details>
+
+## Map Generator
+This Unity project aimed to create a programme which would generate realistic maps for role playing games such as Dungeons and Dragons. Specifically, I wanted a map generator which would simulate continental drift, climate biomes, city trade routes and handle city name generation.
+
+<details open>
+<summary><em>Screenshot</em></summary>
+
+![Event Planner screenshot](https://github.com/patrick-hignell/patrick-hignell/blob/main/public/images/EventPlannerScreenshot.png?raw=true)
+
+![Map Generator screenshot](https://github.com/patrick-hignell/Map-Generator/blob/main/public/images/map1.png?raw=true)
+
+</details>
+
+<details>
+<summary><em>Next Steps</em></summary>
+  
+-	add map editing features
+
+-	add seeding logic to random functions
+
+-	improve performance- research using data-oriented technology stack (DOTS)
+
+-	add the next layer of generation using data from current tiles to generate a zoomed in regional map
+
+-	eventually add a third layer of generation using data from regional maps for battle map generation
+</details>
