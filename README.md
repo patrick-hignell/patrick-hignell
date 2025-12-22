@@ -121,7 +121,7 @@ Specifically, I wanted a map generator which would simulate continental drift, c
 # HOME
 I was approached by artist Tiras Verey to collaborate on a platformer using his original artwork called HOME.
 
-I was interested in working with lighting and layered backgrounds to create an atmosphere which would suit the game.
+I was interested in working with lighting and layered backgrounds to create an atmosphere which would suit the artwork.
 
 I focused on incorporating unique attack and movement mechanics in to the gameplay and recommended we also add tools for speed running and challenge runs early on in development as this can attract gamers and creators to less well known games.
 
