@@ -66,6 +66,39 @@ You can see more of Tiras Verey's artwork at his website www.tirasvereyarts.com 
 - Lighting options to allow for better performance
 </details>
 
+# Spaceship Builder
+For this Unity project I wanted to make a game in which the player can create a working modular spaceship including the internal wiring and thruster placement.
+
+The game currently features three different gravity systems depending on the environment:
+1) Free floating when in space.
+2) Downward gravity when the player is in a spaceship relative to its rotation.
+3) Gravity applied towards a planet's centre when within its gravitational pull.
+   
+This also requires different movement and rotation logic depending on the different environments, for example to prevent the look direction from being locked around the y axis when in space.
+
+<details open>
+<summary><em>Screenshot</em></summary>
+
+![Spaceship screenshot](https://github.com/patrick-hignell/patrick-hignell/blob/main/public/images/SpaceshipScreenshot.png?raw=true)
+
+</details>
+
+<details>
+<summary><em>Next Steps</em></summary>
+  
+- add asteroid field and random asteroid generation
+
+- add circuit boards with logic gates
+
+- add fuel and power resources
+
+- add mining nodes
+
+- add crafting and automation
+
+- add story mode
+</details>
+
 ## GlIGHFE 
 (Pronounced Glyph) was a week long group project for the final week of Devacademy Aotearoa.
 
@@ -125,6 +158,30 @@ With the skills that I learned at Dev Academy I began working on turning the dat
 - Add more screenshots
 
 - Fix youtube error messages
+</details>
+
+## Decoder Wheel
+I wanted to create a decoder wheel which I could then print out and use in puzzles with friends. I used Typescript and React to create a web page. I chose to use D&D dice as symbols for the wheel, placed them in an array and then placed them in a circle by mapping the array, rotating each item and translating them by the radius using absolute position.
+
+The inner or outer wheel can then be hidden so that they can be printed out separately to make a physical copy.
+
+The user can select a key and enter a message which will then be coded according to the selected key. There is a list at the bottom of every possible variation of the code, displaying which key would be requried for each variation.
+
+<details open>
+<summary><em>Screenshot</em></summary>
+
+![Event Planner screenshot](https://github.com/patrick-hignell/patrick-hignell/blob/main/public/images/DecoderWheelScreenshot.png?raw=true)
+
+</details>
+
+<details>
+<summary><em>Next Steps</em></summary>
+  
+- Add options for the user to change the order of the symbols
+  
+- Add options for uploading custom symbols/ using letters or numbers
+
+- Add printing options
 </details>
 
 ## Event Planner
