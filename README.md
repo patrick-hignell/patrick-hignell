@@ -100,7 +100,7 @@ Specifically, I wanted a map generator which would simulate continental drift, c
 <details open>
 <summary><em>Screenshot</em></summary>
 
-![Map Generator screenshot](https://github.com/patrick-hignell/Map-Generator/blob/main/public/images/map1.png?raw=true)
+![Map screenshot](https://github.com/patrick-hignell/patrick-hignell/blob/main/public/images/MapScreenshot.png?raw=true)
 
 </details>
 
@@ -130,7 +130,7 @@ You can see more of Tiras Verey's artwork at his website www.tirasvereyarts.com 
 <details open>
 <summary><em>Screenshot</em></summary>
 
-![Home screenshot](https://github.com/patrick-hignell/HOME/blob/main/public/images/home4.png?raw=true)
+![Home screenshot](https://github.com/patrick-hignell/patrick-hignell/blob/main/public/images/HomeScreenshot.png?raw=true)
 
 </details>
 
