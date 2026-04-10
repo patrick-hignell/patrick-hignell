@@ -9,6 +9,63 @@ During the course I learned how to use HTML, JavaScript, TypeScript, CSS, Tailwi
 I am now putting these new skills to the test and will continue to improve upon the projects below.
 
 ## Projects
+
+## Map Generator
+This Unity project aimed to create a programme which would generate realistic maps for role playing games such as Dungeons and Dragons.
+
+Specifically, I wanted a map generator which would simulate continental drift, climate biomes, city trade routes and handle city name generation.
+
+<details open>
+<summary><em>Screenshot</em></summary>
+
+![Map screenshot](https://github.com/patrick-hignell/patrick-hignell/blob/main/public/images/MapScreenshot.png?raw=true)
+
+</details>
+
+<details>
+<summary><em>Next Steps</em></summary>
+  
+-	add map editing features
+
+-	add seeding logic to random functions
+
+-	improve performance- research using data-oriented technology stack (DOTS)
+
+-	add the next layer of generation using data from current tiles to generate a zoomed in regional map
+
+-	eventually add a third layer of generation using data from regional maps for battle map generation
+</details>
+
+# HOME
+I was approached by artist Tiras Verey to collaborate on a platformer using his original artwork called HOME.
+
+I was interested in working with Unity lighting and layered backgrounds to create an atmosphere which would suit the artwork.
+
+I focused on incorporating unique attack and movement mechanics in to the gameplay and recommended we also add tools for speed running and challenge runs early on in development as this can attract gamers and creators to less well known games.
+
+You can see more of Tiras Verey's artwork at his website www.tirasvereyarts.com or on instagram @tiras_verey_arts.
+
+<details open>
+<summary><em>Screenshot</em></summary>
+
+![Home screenshot](https://github.com/patrick-hignell/patrick-hignell/blob/main/public/images/HomeScreenshot.png?raw=true)
+
+</details>
+
+<details>
+<summary><em>Next Steps</em></summary>
+  
+- Complete demo level
+
+- Add additional attack options (e.g. water, earth, air) each with their own attack and movement mechanics
+
+- Add challenge runs such as pacifist, reduced attack options, no checkpoints etc.
+
+- Add additional enemies
+
+- Lighting options to allow for better performance
+</details>
+
 ## GlIGHFE 
 (Pronounced Glyph) was a week long group project for the final week of Devacademy Aotearoa.
 
@@ -90,60 +147,4 @@ It is capable of all CRUD operations using RESTful APIs so events can easily be 
 - Add functionality for multiple entry upload
   
 - Stylise for specific festivals e.g. Art Deco
-</details>
-
-## Map Generator
-This Unity project aimed to create a programme which would generate realistic maps for role playing games such as Dungeons and Dragons.
-
-Specifically, I wanted a map generator which would simulate continental drift, climate biomes, city trade routes and handle city name generation.
-
-<details open>
-<summary><em>Screenshot</em></summary>
-
-![Map screenshot](https://github.com/patrick-hignell/patrick-hignell/blob/main/public/images/MapScreenshot.png?raw=true)
-
-</details>
-
-<details>
-<summary><em>Next Steps</em></summary>
-  
--	add map editing features
-
--	add seeding logic to random functions
-
--	improve performance- research using data-oriented technology stack (DOTS)
-
--	add the next layer of generation using data from current tiles to generate a zoomed in regional map
-
--	eventually add a third layer of generation using data from regional maps for battle map generation
-</details>
-
-# HOME
-I was approached by artist Tiras Verey to collaborate on a platformer using his original artwork called HOME.
-
-I was interested in working with Unity lighting and layered backgrounds to create an atmosphere which would suit the artwork.
-
-I focused on incorporating unique attack and movement mechanics in to the gameplay and recommended we also add tools for speed running and challenge runs early on in development as this can attract gamers and creators to less well known games.
-
-You can see more of Tiras Verey's artwork at his website www.tirasvereyarts.com or on instagram @tiras_verey_arts.
-
-<details open>
-<summary><em>Screenshot</em></summary>
-
-![Home screenshot](https://github.com/patrick-hignell/patrick-hignell/blob/main/public/images/HomeScreenshot.png?raw=true)
-
-</details>
-
-<details>
-<summary><em>Next Steps</em></summary>
-  
-- Complete demo level
-
-- Add additional attack options (e.g. water, earth, air) each with their own attack and movement mechanics
-
-- Add challenge runs such as pacifist, reduced attack options, no checkpoints etc.
-
-- Add additional enemies
-
-- Lighting options to allow for better performance
 </details>
