@@ -10,7 +10,7 @@ I am now putting these new skills to the test and will continue to improve upon 
 
 ## Projects
 
-## Map Generator
+## [Map Generator](https://github.com/patrick-hignell/Map-Generator)
 This Unity project aimed to create a programme which would generate realistic maps for role playing games such as Dungeons and Dragons.
 
 Specifically, I wanted a map generator which would simulate continental drift, climate biomes, city trade routes and handle city name generation.
@@ -36,7 +36,7 @@ Specifically, I wanted a map generator which would simulate continental drift, c
 -	eventually add a third layer of generation using data from regional maps for battle map generation
 </details>
 
-# HOME
+# [HOME](https://github.com/patrick-hignell/HOME)
 I was approached by artist Tiras Verey to collaborate on a platformer using his original artwork called HOME.
 
 I was interested in working with Unity lighting and layered backgrounds to create an atmosphere which would suit the artwork.
@@ -66,7 +66,7 @@ You can see more of Tiras Verey's artwork at his website www.tirasvereyarts.com 
 - Lighting options to allow for better performance
 </details>
 
-# Spaceship Builder
+# [Spaceship Builder](https://github.com/patrick-hignell/spaceship-builder)
 For this Unity project I wanted to make a game in which the player can create a working modular spaceship including the internal wiring and thruster placement.
 
 The game currently features three different gravity systems depending on the environment:
@@ -99,7 +99,7 @@ This also requires different movement and rotation logic depending on the differ
 - add story mode
 </details>
 
-## GlIGHFE 
+## [GlIGHFE](https://github.com/patrick-hignell/GlIGHFE) 
 (Pronounced Glyph) was a week long group project for the final week of Devacademy Aotearoa.
 
 I had wanted to work on some form of social media for our final project and was also interested in explroing image uploading.
@@ -133,7 +133,7 @@ During the final showcase I presented to a group of non-coders, talking them tho
 - Make mobile keyboard disappear when emoji picker is visible
 </details>
 
-## Eurovision Database
+## [Eurovision Database](https://github.com/patrick-hignell/eurovision-database)
 This project originally began long before Dev Academy as a macro enabled Excel spreadsheet.
 
 I host an annual costume party for the Eurovision Song Contest and we discovered that some of our friends would struggle with the costume research process, particularly if there were not very familiar with Eurovision.
@@ -160,7 +160,7 @@ With the skills that I learned at Dev Academy I began working on turning the dat
 - Fix youtube error messages
 </details>
 
-## Decoder Wheel
+## [Decoder Wheel](https://github.com/patrick-hignell/decoder-wheel)
 I wanted to create a decoder wheel which I could then print out and use in puzzles with friends. I used Typescript and React to create a web page. I chose to use D&D dice as symbols for the wheel, placed them in an array and then placed them in a circle by mapping the array, rotating each item and translating them by the radius using absolute position.
 
 The inner or outer wheel can then be hidden so that they can be printed out separately to make a physical copy.
@@ -184,7 +184,7 @@ The user can select a key and enter a message which will then be coded according
 - Add printing options
 </details>
 
-## Event Planner
+## [Event Planner](https://github.com/patrick-hignell/event-planner)
 Festivals such as the Edinburgh Fringe or the Art Deco Festival often provide a detailed programme, however it can often be difficult to know if the event you are looking at might clash with others you might want to attend.
 
 The event planner aims to simplify this by taking events in its database and arranging them in a planner side by side so you can immediatley see what's on each day and which events are on at the same time.
